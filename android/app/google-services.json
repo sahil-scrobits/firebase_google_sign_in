@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956505224800",
+    "project_id": "integral-hold-248206",
+    "storage_bucket": "integral-hold-248206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956505224800:android:944b9f0f4eb2d152857505",
+        "android_client_info": {
+          "package_name": "com.example.kuch_bhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956505224800-u2afhkcd17dtcuqdna83htpqucod2j17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kuch_bhi",
+            "certificate_hash": "ab10bd8daa457279e5d2b37001a264001fd641d5"
+          }
+        },
+        {
+          "client_id": "956505224800-e9fjls27miknsli54ba6gan2l6lr8lrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAWjkW187CQNq0kdXXbs8VQKME6r0P1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956505224800-e9fjls27miknsli54ba6gan2l6lr8lrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
